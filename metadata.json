@@ -1,0 +1,8 @@
+{
+  "name": "Classroom Intelligence",
+  "description": "Real-time AI-powered classroom engagement analytics and teacher insights dashboard, replicating BigQuery ML models and live webcam observer streaming.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
